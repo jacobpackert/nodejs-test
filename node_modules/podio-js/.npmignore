@@ -1,0 +1,10 @@
+.idea/*
+node_modules/**/*
+_site/*
+npm-debug.log
+Gemfile
+Gemfile.lock
+*.swp
+dist/
+coverage/
+.node-version
